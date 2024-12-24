@@ -1,0 +1,5 @@
+Detected 3 faces in the image.
+Detected 3 faces in the image.
+Detected 3 faces in the image.
+Detected 2 faces in the image.
+Detected 3 faces in the image.
